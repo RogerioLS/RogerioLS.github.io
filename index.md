@@ -1,4 +1,8 @@
-## Portfolio
+Navigate to: <a href="">Current Projects</a> <b>|</b> <a href="">Publications </a><b>|</b> <a href="">Past Projects </a><b>|</b> <a href="">About </a>
+
+---
+
+<h2 id="currentprojects" style="color:DarkSlateGray;">Featured Projects</h2>
 
 ---
 
